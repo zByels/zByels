@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Ziba!
+# 👋 Olá, meu nome é Gabriel.
 
 💻 Estudante de **Informática e Desenvolvimento de Software**
 📱 Desenvolvendo aplicações **Android**
