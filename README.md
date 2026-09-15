@@ -123,15 +123,9 @@ Linux & Servers         ████████░░░░░  Ubuntu / LAMP
 Cloud & Containers      ██████░░░░░░░  Docker / Kubernetes
 ```
 
-> "A melhor forma de aprender é colocando a mão no código."
 
 ---
 
 ## 📫 Contato
 
 * 📧 E-mail: **gabrielforti11@gmail.com**
-
-
----
-
-⭐ *Obrigado por visitar meu perfil!*
